@@ -2,3 +2,7 @@ obj
 bin
 *.sln
 .env
+labenv/
+.venv/
+venv/
+__pycache__/
